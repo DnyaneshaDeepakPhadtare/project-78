@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background-color: cyan;
+  }  
+  #heading{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+  }
+  
+  #name{
+    font-size:50px;
+  }
+  
+    #album
+  {
+    border-style:solid;
+    border-color:#689F38;
+    border-width:2px;
+    border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+  }
+  
